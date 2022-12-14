@@ -15,11 +15,11 @@ const CONFIG = {
   },
 
   // CONFIG configration
-  link: 'https://notionExample001.vercel.app',
+  link: 'https://vercel001-ap5o.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   postsPerPage: 10,
-  ogImageGenerateURL: 'https://notionExample001.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://vercel001-ap5o.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
   },
